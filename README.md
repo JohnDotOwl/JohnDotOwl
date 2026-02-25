@@ -21,6 +21,13 @@
 - 💬 **[AckReply](https://ackreply.com)** - Async-first customer messaging platform where AI handles instant responses 24/7 and teams reply on their schedule.
 - 📊 **[AppExpose](https://appexpose.com)** - Niche app discovery and market intelligence platform for hidden opportunities and emerging categories.
 - 🧠 **[ClippyBot.ai](https://clippybot.ai)** - Personal AI assistant platform with specialized AI teammates designed to boost team output.
+- 🔍 **[PromptMention](https://promptmention.com)** - AI search visibility platform that tracks and optimizes how your brand appears across ChatGPT, Claude, Gemini, and Perplexity.
+
+## Open Source
+
+- 🦀 **[image-converter-rs](https://github.com/JohnDotOwl/image-converter-rs)** - Fast Rust CLI and library for image format conversion — PNG, JPEG, WebP, GIF, BMP, TIFF, AVIF, HEIC and more.
+- 🍌 **[banana-pdf](https://github.com/JohnDotOwl/banana-pdf)** - AI-powered PDF slide editor — edit presentations using natural language.
+- 💾 **[github-backup-rs](https://github.com/JohnDotOwl/github-backup-rs)** - GitHub backup tool in Rust with CLI and JSON-RPC plugin mode.
 
 ## What I'm Doing
 
