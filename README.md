@@ -25,6 +25,7 @@
 
 ## Open Source
 
+- 📦 **[image-compressor-rs](https://github.com/JohnDotOwl/image-compressor-rs)** - High-performance Rust CLI and library for batch image compression and resizing with mozjpeg, oxipng, libwebp, and ravif.
 - 🦀 **[image-converter-rs](https://github.com/JohnDotOwl/image-converter-rs)** - Fast Rust CLI and library for image format conversion — PNG, JPEG, WebP, GIF, BMP, TIFF, AVIF, HEIC and more.
 - 🍌 **[banana-pdf](https://github.com/JohnDotOwl/banana-pdf)** - AI-powered PDF slide editor — edit presentations using natural language.
 - 💾 **[github-backup-rs](https://github.com/JohnDotOwl/github-backup-rs)** - GitHub backup tool in Rust with CLI and JSON-RPC plugin mode.
